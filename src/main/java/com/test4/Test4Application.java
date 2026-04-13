@@ -17,6 +17,8 @@ public class Test4Application {
 		boolean isPresent=false;
 		float m = 10.3f;
 		char i = 'n';
+		char ch = 'x';
+
 		boolean isSub=true;
 		SpringApplication.run(Test4Application.class, args);
 	}
